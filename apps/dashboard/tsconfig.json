@@ -1,4 +1,5 @@
 {
+  "extends": "@vkc/ts/react-library.json",
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
