@@ -1,0 +1,4 @@
+1. from scratch
+    - Install tailwindcss in packages folder
+    - Create new app "dashboard" using vite + ts
+    - Create internal package for ui from scratch and that used in app
